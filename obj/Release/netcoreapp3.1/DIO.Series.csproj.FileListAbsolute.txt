@@ -1,0 +1,13 @@
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Release\netcoreapp3.1\DIO.Series.exe
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Release\netcoreapp3.1\DIO.Series.deps.json
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Release\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Release\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Release\netcoreapp3.1\DIO.Series.dll
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Release\netcoreapp3.1\DIO.Series.pdb
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Release\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Release\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Release\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Release\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Release\netcoreapp3.1\DIO.Series.dll
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Release\netcoreapp3.1\DIO.Series.pdb
+D:\downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Release\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
