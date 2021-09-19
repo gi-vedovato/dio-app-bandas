@@ -1,21 +1,19 @@
-# Digital Innovation One - Prática .NET
+# Digital Inovation One - Bootcamp
 
-## Criando uma APP de cadastro em memória
+### Pratica .NET
 
-[Slides](dio-dotnet-poo-lab-2.pdf)
+#### Projeto
 
-## Contato
+Caracteristicas do projeto:
 
-Eliézer Zarpelão
+```
+O Projeto original foi refatorado para trabalhar com cadastro de Bandas
+```
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
+O Projeto foi desenhado para aplicar os conceitos aprendidos no curso de 'Praticas .NET'.
 
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
+### Implementacao nova:
 
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
+Foi adicionado uma lista de integrantes a classe Banda e alterado a classe Program.cs para recepcionar e exibir os integrantes informados.
 
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
-
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
+A lista de bandas é mantida em memoria em uma lista dentro da aplicação.
